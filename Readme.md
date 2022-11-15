@@ -7,3 +7,5 @@ This proejct dimplements camera calibration method as described by Zhengyou Zhan
 ```
 python Wrapper.py
 ```
+
+This was implemented as part of [CMSC733](https://cmsc733.github.io/2022/hw/hw1/) and for detailed report refer [here](https://github.com/naitri/camera-calibration/blob/main/Report.pdf)
